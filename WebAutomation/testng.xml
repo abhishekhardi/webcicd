@@ -3,9 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.webautomation.BaseTest2"/>
-      <class name="Test.ButtonsTest"/>
-      <class name="Utilities.TestMain"/>
+      <class name="com.webautomation.BaseTest3"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
